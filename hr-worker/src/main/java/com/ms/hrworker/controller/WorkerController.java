@@ -1,4 +1,4 @@
-package com.ms.hrworker.Controller;
+package com.ms.hrworker.controller;
 
 import com.ms.hrworker.entities.Worker;
 import com.ms.hrworker.repository.WorkerRepository;
